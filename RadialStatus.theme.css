@@ -31,7 +31,7 @@
     * Colours
     */
   --rs-online-color: #2f8ab5; /* Colour for online status */
-  --rs-idle-color: #faa61a; /* Colour for idle status */
+  --rs-idle-color: #ffcb26; /* Colour for idle status */
   --rs-dnd-color: #f04747; /* Colour for dnd status */
   --rs-offline-color: #636b75; /* Colour for offline status */
   --rs-streaming-color: #643da7; /* Colour for streaming status */
